@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="villes">
+        <item>Kenitra</item>
+        <item>Rabat</item>
+        <item>Casablanca</item>
+        <item>Safi</item>
+    </string-array>
+</resources>
